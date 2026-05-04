@@ -1,5 +1,7 @@
-## 🤠 Howdy, I’m Darlene Eligado
-🎓 Data Science major (Biology concentration) at the University of Texas at Arlington  
-🧬 Mostly working with biology, healthcare, and medical datasets while also exploring projects beyond my main domain
+## 🤠 Howdy, I’m Darlene
+
+🎓 B.S. in Data Science (Biology concentration) from UT Arlington  
+Background in healthcare and life science data, applying data science to real-world problems. Currently expanding into new domains through curiosity-driven projects.
+
 
 ---
